@@ -32,4 +32,4 @@ I taught the following lectures for CEE 262H: Observational Methods in Coastal O
 
 * ADVs, OBS, LISST: Measuring turbulence and sediment in the environment
 
-* Turbulence dissipation and spectra, or: The power of heroic approximations
+* Turbulence dissipation, spectra, and wave-turbulence decomposition: The power of heroic  approximations
