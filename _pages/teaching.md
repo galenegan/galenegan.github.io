@@ -4,7 +4,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching Assistantships (Stanford University)
+## Teaching Assistantships 
+
+At Stanford, I TA'd for the following classes:
 
 * CEE 262B: Transport and Mixing in Surface Water Flows, *Winter 2017, 2018*
 
@@ -23,3 +25,11 @@ author_profile: true
 * CEE 201S: Computations in CEE, *Summer 2016*
 
   Held weekly office hours, graded assignments, and led supplemental discussion section for a MATLAB-based programming course. Taught to a wide audience, from high school seniors to Stanford Continuing Studies students.
+
+  ## Guest Lectures
+
+I taught two lectures of CEE 262H: Observational Methods in Coastal Oceanography
+
+* ADVs, OBS, LISST: Measuring turbulence and sediment in the environment
+
+* Turbulence dissipation and spectra, or: The power of heroic approximations
