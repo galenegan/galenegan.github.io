@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello and welcome!"
+title: "Galen Egan"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
