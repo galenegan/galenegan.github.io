@@ -26,7 +26,7 @@ At Stanford, I TA'd for the following classes:
 
   Held weekly office hours, graded assignments, and led supplemental discussion section for a MATLAB-based programming course. Taught to a wide audience, from high school seniors to Stanford Continuing Studies students.
 
-  ## Guest Lectures
+## Guest Lectures
 
 I taught the following lectures for CEE 262H: Observational Methods in Coastal Oceanography
 
