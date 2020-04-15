@@ -10,7 +10,7 @@ author_profile: true
 
 **Egan, G.**, Manning, A., Chang, G., Fringer, O., & Monismith, S. (2020). Sediment-induced stratification in an estuarine bottom boundary layer. *submitted*
 
-Roberts, D.C., **Egan, G.C.**, Forrest, A.L., Largier, J.L., Bombardelli, F.A., Laval, B.E., Monismith, S.G., Schladow, S.G. (2020). The setup and relaxation of spring upwelling in a deep, rotationally influenced lake. *submitted* 
+Roberts, D.C., **Egan, G.C.**, Forrest, A.L., Largier, J.L., Bombardelli, F.A., Laval, B.E., Monismith, S.G., Schladow, S.G. (2020). The setup and relaxation of spring upwelling in a deep, rotationally influenced lake. *in revision* 
 
 ### 2019
 
