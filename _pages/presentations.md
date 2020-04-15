@@ -22,6 +22,6 @@ author_profile: true
 
 **Egan, G.**, Cowherd, M., Spada, F., Scheu, K., Manning, A., Jones, C., Monismith, S., Change, G., & Fringer, O. "*In situ* observations of near-bed turbulence and cohesive sediment transport." (presentation) AGU Fall Meeting 2018, Washington, D.C. 
 
-**Egan, G.**, Monismith, S.G., & Hench, J.L. "1D water column modeling of stratification and turbulence in a tidal river."(poster) 2018 Ocean Sciences Meeting, February 2018, Portland, OR
+**Egan, G.**, Monismith, S. G., & Hench, J.L. "1D water column modeling of stratification and turbulence in a tidal river."(poster) 2018 Ocean Sciences Meeting, February 2018, Portland, OR
 
 Hogg, C., Pietrasz, V., **Egan, G.**, & Ouellette, N. "The influence of a shoaling internal gravity wave on a dense gravity current." (paper) VIIIth International Symposium on Stratified Flows, August 2016, San Diego, CA
