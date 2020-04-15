@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Galen Egan              "
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Galen Egan"
 description              : &description ""
