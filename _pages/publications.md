@@ -4,26 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Locations of key files/directories
+**Egan, G.**, Cowherd, M., Fringer, O., & Monismith, S. (2019). Observations of near-bed shear stress in a shallow, wave- and current-driven flow. *Journal of Geophysical Research: Oceans, 124*(8), 6323-6344.
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+Monismith, S.G., Hirsh, H., Batista, N., Francis, H., **Egan, G.**, Dunbar, R.B. (2019). Flow and drag in a seagrass bed. *Journal of Geophysical Research: Oceans 124*(3), 2153-2163.
 
-## Tips and hints
+Hogg, C. A., **Egan, G. C.**, Ouellette, N. T., & Koseff, J. R. (2017). Shoaling internal waves may reduce gravity current transport. *Environmental Fluid Mechanics, 18*(2), 383-394.
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
+**Egan, G.**, Kumar, A., Neithalath, N., & Sant, G. (2017). Re-examining the influence of the inclusion characteristics on the drying shrinkage of cementitious composites. *Construction and Building Materials 146*, 713-722.
