@@ -8,8 +8,7 @@ author_profile: true
 
 **Egan, G.**, Chang, G., Revelas, G., Monismith, S., & Fringer, O. (2020). Bottom drag varies seasonally with biological roughness. *submitted*
 
-**Egan, G.**, Manning, A., Chang,G., Fringer, O., & Monismith, S. (2020). Sediment-induced stratification in an estuarine bottom
-boundary layer. *submitted*
+**Egan, G.**, Manning, A., Chang, G., Fringer, O., & Monismith, S. (2020). Sediment-induced stratification in an estuarine bottom boundary layer. *submitted*
 
 ## 2019
 
