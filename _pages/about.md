@@ -12,5 +12,5 @@ I am a PhD candidate in the Civil and Environmental Engineering department at St
 
 I study cohesive sediment transport by conducting field work in South San Francisco Bay. Using the data that I am collecting, I aim to develop physics-based parameterizations for processes such as cohesive sediment flocculation in wave and current-driven turbulent flows. Ultimately, this work will be applied towards improving the predictive capabilities of numerical sediment transport models. In my spare time I enjoy cooking elaborate dinners, [fly fishing](../images/flyfishing.jpeg), and [writing Yelp reviews](https://www.yelp.com/user_details_reviews_self?userid=yosI54Xkh_tT0iL6U8STCQ).
 
-| ![spi.JPG](../images/spi.JPG) |
-| *The mud that I study* |
+![spi.JPG](../images/spi.JPG)
+<div align="center">The mud that I study</div>
