@@ -8,15 +8,15 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
+  
   - title: "CV"
     url: /cv/
     
- - title: ""
-  url: 
-        
- - title: ""
-    url: 
-    
   - title: ""
-    url: 
+    url: /portfolio/
+        
+  - title: ""
+    url: /year-archive/
+  
+  - title: ""
+    url: /markdown/
