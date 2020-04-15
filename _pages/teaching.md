@@ -28,7 +28,7 @@ At Stanford, I TA'd for the following classes:
 
   ## Guest Lectures
 
-I taught two lectures of CEE 262H: Observational Methods in Coastal Oceanography
+I taught the following lectures for CEE 262H: Observational Methods in Coastal Oceanography
 
 * ADVs, OBS, LISST: Measuring turbulence and sediment in the environment
 
