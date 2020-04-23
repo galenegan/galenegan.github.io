@@ -5,8 +5,8 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+redirect_to:
+  - ../files/EganCV.pdf
 ---
 
-{% include base_path %}
 
-My CV can be found [here](../files/EganCV.pdf)
