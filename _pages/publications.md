@@ -6,11 +6,11 @@ author_profile: true
 
 ## 2020
 
-**Egan, G.**, Manning, A., Chang, G., Fringer, O., & Monismith, S. (2020). Sediment-induced stratification in an estuarine bottom boundary layer. *in revision*
-
 Roberts, D. C., **Egan, G. C.**, Forrest, A. L., Largier, J. L., Bombardelli, F. A., Laval, B. E., Monismith, S. G., Schladow, S. G. (2020). The setup and relaxation of spring upwelling in a deep, rotationally influenced lake. *in revision* 
 
-**Egan, G.**, Chang, G., Revelas, G., Monismith, S., & Fringer, O. (2020). Bottom drag varies seasonally with biological roughness. *accepted to Geophysical Research Letters*
+**Egan, G.**, Manning, A., Chang, G., Fringer, O., & Monismith, S. (2020). Sediment-induced stratification in an estuarine bottom boundary layer. *Journal of Geophysical Research: Oceans, 125*(8), e2019JC016022.
+
+**Egan, G.**, Chang, G., Revelas, G., Monismith, S., & Fringer, O. (2020). Bottom drag varies seasonally with biological roughness. *Geophysical Research Letters, 47* (15), e2020GL088425.
 
 ## 2019
 
