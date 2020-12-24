@@ -8,11 +8,11 @@ author_profile: true
 
 **Egan, G.**, Chang, G., Manning, A., Monismith, S., & Fringer, O. (2020 *in prep*). On the variability of flocculated particle characteristics in a shallow estuary.
 
-Cowherd, M., **Egan, G.**, Monismith, S., & Fringer, O. (2020 *in prep*). Phase-resolved wave boundary layer dynamics in a shallow estuary. 
+Cowherd, M., **Egan, G.**, Monismith, S., & Fringer, O. (2020 *submitted*). Phase-resolved wave boundary layer dynamics in a shallow estuary. 
 
-**Egan, G.**, Chang, G., McWilliams, S., Revelas, G., Fringer, O., & Monismith, S. (2020 *in revision*). Cohesive sediment erosion in a combined wave-current boundary layer. 
+**Egan, G.**, Chang, G., McWilliams, S., Revelas, G., Fringer, O., & Monismith, S. (2020). Cohesive sediment erosion in a combined wave-current boundary layer. *accepted for publication in Journal of Geophysical Research: Oceans*
 
-Roberts, D. C., **Egan, G. C.**, Forrest, A. L., Largier, J. L., Bombardelli, F. A., Laval, B. E., Monismith, S. G., Schladow, S. G. (2020 *accepted*). The setup and relaxation of spring upwelling in a deep, rotationally influenced lake. 
+Roberts, D. C., **Egan, G. C.**, Forrest, A. L., Largier, J. L., Bombardelli, F. A., Laval, B. E., Monismith, S. G., Schladow, S. G. (2020). The setup and relaxation of spring upwelling in a deep, rotationally influenced lake. *accepted for publication in Limnology and Oceanography*
 
 **Egan, G.**, Manning, A., Chang, G., Fringer, O., & Monismith, S. (2020). Sediment-induced stratification in an estuarine bottom boundary layer. *Journal of Geophysical Research: Oceans, 125*(8), e2019JC016022.
 
