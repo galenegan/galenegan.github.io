@@ -28,8 +28,10 @@ At Stanford, I TA'd for the following classes:
 
 ## Guest Lectures
 
-I taught the following lectures for CEE 262H: Observational Methods in Coastal Oceanography
+At Stanford, I taught the following lectures for CEE 262H: Observational Methods in Coastal Oceanography (Spring 2020)
 
 * ADVs, OBS, LISST: Measuring turbulence and sediment in the environment
 
-* Turbulence dissipation, spectra, and wave-turbulence decomposition: The power of heroic  approximations
+* Turbulence dissipation, spectra, and wave-turbulence decomposition: The power of heroic approximations
+
+At the University of Washington, I guest lectured in ME 333: Fluid Mechanics (Winter 2022)

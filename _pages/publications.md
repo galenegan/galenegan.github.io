@@ -5,11 +5,11 @@ author_profile: true
 ---
 
 ## 2022
-**Egan, G.**, Chang, G., Manning, A., Monismith, S., & Fringer, O. (2022 *in revision*). On the variability of flocculated particle characteristics in a shallow estuary.
+**Egan, G.**, Chang, G., Manning, A., Monismith, S., & Fringer, O. (2022). On the variability of floc characteristics in a shallow estuary. *Journal of Geophysical Research: Oceans 127*(6), e2021JC018343. 
 
+Chang, G., **Egan, G.**, McNeil, J. D., McWilliams, S., Jones, C., Spada, F., Monismith, S., & Fringer, O. (2022). Seasonal particle responses to near‐bed shear stress in a shallow, wave‐and current‐driven environment. *Limnology and Oceanography Letters 7*(2), 175-183.
 
 ## 2021
-Chang, G., **Egan, G.**, McNeil, J. D., McWilliams, S., Jones, C., Spada, F., Monismith, S., & Fringer, O. (2021). Seasonal particle responses to near‐bed shear stress in a shallow, wave‐and current‐driven environment. *Limnology and Oceanography Letters*.
 
 Cowherd, M., **Egan, G.**, Monismith, S., & Fringer, O. (2021). Phase-resolved wave boundary layer dynamics in a shallow estuary. *Geophysical Research Letters, 48*(8), e2020GL092251.
 
