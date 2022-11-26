@@ -4,6 +4,16 @@ permalink: /publications/
 author_profile: true
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1G9CHBPGPG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1G9CHBPGPG');
+</script>
+
 ## 2022
 **Egan, G.**, Chang, G., Manning, A., Monismith, S., & Fringer, O. (2022). On the variability of floc characteristics in a shallow estuary. *Journal of Geophysical Research: Oceans 127*(6), e2021JC018343. 
 

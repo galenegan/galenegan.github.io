@@ -4,6 +4,16 @@ permalink: /teaching/
 author_profile: true
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1G9CHBPGPG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1G9CHBPGPG');
+</script>
+
 ## Teaching Assistantships 
 
 At Stanford, I TA'd for the following classes:
