@@ -15,7 +15,7 @@ author_profile: true
 </script>
 
 ## 2023
-Dorsay, C., **Egan, G.,**, Houghton, H., Hegermiller, C., Smit, P.B. (2023 *in revision*). Proxy observations of surface wind from a globally distributed network of wave buoys.
+Dorsay, C., **Egan, G.,**, Houghton, H., Hegermiller, C., Smit, P.B. (2023). Proxy observations of surface wind from a globally distributed network of wave buoys. *Journal of Atmospheric and Oceanic Technology, 40*(12), 1403-1415.
 
 ## 2022
 **Egan, G.**, Chang, G., Manning, A., Monismith, S., & Fringer, O. (2022). On the variability of floc characteristics in a shallow estuary. *Journal of Geophysical Research: Oceans 127*(6), e2021JC018343. 
