@@ -14,6 +14,12 @@ author_profile: true
   gtag('config', 'G-1G9CHBPGPG');
 </script>
 
+## 2024
+
+**Egan, G.**, Dorsay, C., & Smit, P.B. (2024 *submitted*). Data-driven ocean rainfall detection using microphone audio.
+
+Smit, P.B., **Egan, G.**, & Houghton, I. (2024 *in revision*). Continuous peak period estimates from discrete surface-wave spectra. 
+
 ## 2023
 Dorsay, C., **Egan, G.,**, Houghton, H., Hegermiller, C., Smit, P.B. (2023). Proxy observations of surface wind from a globally distributed network of wave buoys. *Journal of Atmospheric and Oceanic Technology, 40*(12), 1403-1415.
 
