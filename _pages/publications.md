@@ -16,9 +16,9 @@ author_profile: true
 
 ## 2024
 
-**Egan, G.**, Dorsay, C., & Smit, P.B. (2024 *submitted*). Data-driven ocean rainfall detection using microphone audio.
+**Egan, G.**, Zippel, S., & Smit, P.B. (2024 *submitted*). Observing bulk meteorological parameters and air-sea heat fluxes with a Spotter buoy
 
-Smit, P.B., **Egan, G.**, & Houghton, I. (2024 *in revision*). Continuous peak period estimates from discrete surface-wave spectra. 
+Smit, P.B., **Egan, G.**, & Houghton, I. (2024 *in press*). Continuous peak period estimates from discrete surface-wave spectra. *Journal of Atmospheric and Oceanic Technology*
 
 ## 2023
 Dorsay, C., **Egan, G.,**, Houghton, H., Hegermiller, C., Smit, P.B. (2023). Proxy observations of surface wind from a globally distributed network of wave buoys. *Journal of Atmospheric and Oceanic Technology, 40*(12), 1403-1415.
