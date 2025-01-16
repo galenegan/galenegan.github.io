@@ -16,7 +16,7 @@ author_profile: true
 
 ## 2024
 
-**Egan, G.**, Zippel, S., & Smit, P.B. (2024 *submitted*). Observing bulk meteorological parameters and air-sea heat fluxes with a Spotter buoy
+**Egan, G.**, Zippel, S., & Smit, P.B. (2024 *in revision*). Observing bulk meteorological parameters and air-sea heat fluxes with a Spotter buoy
 
 Smit, P.B., **Egan, G.**, & Houghton, I. (2024 *in press*). Continuous peak period estimates from discrete surface-wave spectra. *Journal of Atmospheric and Oceanic Technology*
 
