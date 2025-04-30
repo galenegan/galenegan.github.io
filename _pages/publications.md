@@ -14,11 +14,13 @@ author_profile: true
   gtag('config', 'G-1G9CHBPGPG');
 </script>
 
+## 2025
+**Egan, G.** (2025 *submitted*). Phase-resolved shear stress and sediment flux profiles in a combined wave-current bottom boundary layer
+
+**Egan, G.**, Zippel, S., & Smit, P.B. (2025 *in revision*). Observing bulk meteorological parameters and air-sea heat fluxes with a Spotter buoy
+
 ## 2024
-
-**Egan, G.**, Zippel, S., & Smit, P.B. (2024 *in revision*). Observing bulk meteorological parameters and air-sea heat fluxes with a Spotter buoy
-
-Smit, P.B., **Egan, G.**, & Houghton, I. (2024 *in press*). Continuous peak period estimates from discrete surface-wave spectra. *Journal of Atmospheric and Oceanic Technology*
+Smit, P.B., **Egan, G.**, & Houghton, I. (2024). Continuous peak period estimates from discrete surface-wave spectra. *Journal of Atmospheric and Oceanic Technology, 41*(6), 573-581.
 
 ## 2023
 Dorsay, C., **Egan, G.,**, Houghton, H., Hegermiller, C., Smit, P.B. (2023). Proxy observations of surface wind from a globally distributed network of wave buoys. *Journal of Atmospheric and Oceanic Technology, 40*(12), 1403-1415.
