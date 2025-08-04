@@ -15,9 +15,9 @@ author_profile: true
 </script>
 
 ## 2025
-**Egan, G.** (2025 *submitted*). Phase-resolved shear stress and sediment flux profiles in a combined wave-current bottom boundary layer
+**Egan, G.** (2025 *in revision*). Phase-resolved shear stress and sediment flux profiles in a combined wave-current bottom boundary layer.
 
-**Egan, G.**, Zippel, S., & Smit, P.B. (2025 *in revision*). Observing bulk meteorological parameters and air-sea heat fluxes with a Spotter buoy
+**Egan, G.**, Zippel, S., & Smit, P.B. (2025 *in press*). Observing bulk meteorological parameters and air-sea heat fluxes with a Spotter buoy. *Journal of Atmospheric and Oceanic Technology*. 
 
 ## 2024
 Smit, P.B., **Egan, G.**, & Houghton, I. (2024). Continuous peak period estimates from discrete surface-wave spectra. *Journal of Atmospheric and Oceanic Technology, 41*(6), 573-581.
