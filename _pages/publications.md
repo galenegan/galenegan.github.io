@@ -15,7 +15,7 @@ author_profile: true
 </script>
 
 ## 2025
-**Egan, G.** (2025 *in press*). Phase-resolved shear stress and sediment flux profiles in a combined wave-current bottom boundary layer. *ARC Geophysical Research*. 
+**Egan, G.** (2025). Phase-resolved shear stress and sediment flux profiles in a combined wave-current bottom boundary layer. *ARC Geophysical Research (1)*13. doi: https://doi.org/10.5149/ARC-GR.1704
 
 **Egan, G.**, Zippel, S., & Smit, P.B. (2025). Observing bulk meteorological parameters and air-sea heat fluxes with a Spotter buoy. *Journal of Atmospheric and Oceanic Technology 42*(9), 1149-1165. 
 
