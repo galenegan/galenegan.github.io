@@ -19,11 +19,9 @@ author_profile: true
 Linked below are materials I developed for various classes. Feel free to use them for your own purposes if you find them useful. 
 
 * GEO 390: Research Methods in Geosciences (Princeton University, Fall 2025)
-
   Undergraduate level course covering programming, statistics, and research fundamentals with geosciences applications. All lectures and assignments can be found in the public Github repo [here](https://github.com/galenegan/geo390-public/tree/main).
 
 * Data 5100: Foundations of Data Science (Seattle University, Fall 2024)
-
   Graduate level course covering mathematical and programming prerequisites for data science. Selected materials include:
   - [Linear Algebra Notes](../files/LinearAlgebra.zip)
   - [Calculus and Optimization Notes](../files/CalculusAndOptimization.zip)
@@ -31,17 +29,14 @@ Linked below are materials I developed for various classes. Feel free to use the
 ## Courses Taught 
 
 * Princeton University:
-
   - GEO 390: Research Methods in Geosciences, *Spring 2025*
 
 * Seattle University:
-
   - DATA 5100: Foundations of Data Science, *Fall 2024*
   - MATH 3320: Methodology and Applications of Data Science, *Spring 2024*
   - MATH 2310: Probability and Statistics for Sciences and Engineering, *Winter 2024, Spring 2024*
 
 * Stanford (Teaching Assistantships): 
-
   - CEE 262B: Transport and Mixing in Surface Water Flows, *Winter 2017, 2018*
   - OSPGEN 53: Corals of Palau, Stanford/Bing Overseas Program, *Summer 2017*
   - CEE 101B: Mechanics of Fluids, *Fall 2016*
