@@ -28,6 +28,11 @@ Linked below are materials I developed for various classes. Feel free to use the
   - [Linear Algebra Notes](../files/LinearAlgebra.zip)
   - [Calculus and Optimization Notes](../files/CalculusAndOptimization.zip)
 
+* CEE 262B: Transport and Mixing in Surface Water Flows
+
+  Graduate level environmental transport course. I wrote these summary notes as a grad student to help review the material before teaching the weekly discussion sections. 
+  - [Weekly Discussion Notes](../files/transport_and_mixing.zip)
+
 ## Courses Taught 
 
 * Princeton University:
