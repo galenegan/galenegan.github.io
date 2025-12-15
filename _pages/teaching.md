@@ -24,14 +24,11 @@ Linked below are materials I developed for various classes. Feel free to use the
 
 * Data 5100: Foundations of Data Science (Seattle University, Fall 2024)
 
-  Graduate level course covering mathematical and programming prerequisites for data science. Selected materials include:
-  - [Linear Algebra Notes](../files/LinearAlgebra.zip)
-  - [Calculus and Optimization Notes](../files/CalculusAndOptimization.zip)
+  Graduate level course covering mathematical and programming prerequisites for data science. Selected materials include [Linear Algebra Notes](../files/LinearAlgebra.zip) and [Calculus and Optimization Notes](../files/CalculusAndOptimization.zip).
 
 * CEE 262B: Transport and Mixing in Surface Water Flows
 
-  Graduate level environmental transport course. I wrote these summary notes as a grad student to help review the material before teaching the weekly discussion sections. 
-  - [Weekly Discussion Notes](../files/transport_and_mixing.zip)
+  Graduate level environmental transport course. I wrote these [Weekly Lecture Summary Notes](../files/transport_and_mixing.zip) as a grad student to help review the material before teaching the weekly discussion sections.
 
 ## Courses Taught 
 
