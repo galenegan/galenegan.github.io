@@ -19,9 +19,11 @@ author_profile: true
 Linked below are materials I developed for various classes. Feel free to use them for your own purposes if you find them useful. 
 
 * GEO 390: Research Methods in Geosciences (Princeton University, Fall 2025)
+
   Undergraduate level course covering programming, statistics, and research fundamentals with geosciences applications. All lectures and assignments can be found in the public Github repo [here](https://github.com/galenegan/geo390-public/tree/main).
 
 * Data 5100: Foundations of Data Science (Seattle University, Fall 2024)
+
   Graduate level course covering mathematical and programming prerequisites for data science. Selected materials include:
   - [Linear Algebra Notes](../files/LinearAlgebra.zip)
   - [Calculus and Optimization Notes](../files/CalculusAndOptimization.zip)
