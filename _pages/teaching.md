@@ -26,7 +26,7 @@ Linked below are materials I developed for various classes. Feel free to use the
 
   Graduate level course covering mathematical and programming prerequisites for data science. Selected materials include [Linear Algebra Notes](../files/LinearAlgebra.zip) and [Calculus and Optimization Notes](../files/CalculusAndOptimization.zip).
 
-* CEE 262B: Transport and Mixing in Surface Water Flows
+* CEE 262B: Transport and Mixing in Surface Water Flows (Stanford University, Winter 2018)
 
   Graduate level environmental transport course. I wrote these [Weekly Lecture Summary Notes](../files/transport_and_mixing.zip) as a grad student to help review the material before teaching the weekly discussion sections.
 
@@ -40,7 +40,7 @@ Linked below are materials I developed for various classes. Feel free to use the
   - MATH 3320: Methodology and Applications of Data Science, *Spring 2024*
   - MATH 2310: Probability and Statistics for Sciences and Engineering, *Winter 2024, Spring 2024*
 
-* Stanford (Teaching Assistantships): 
+* Stanford University (Teaching Assistantships): 
   - CEE 262B: Transport and Mixing in Surface Water Flows, *Winter 2017, 2018*
   - OSPGEN 53: Corals of Palau, Stanford/Bing Overseas Program, *Summer 2017*
   - CEE 101B: Mechanics of Fluids, *Fall 2016*
